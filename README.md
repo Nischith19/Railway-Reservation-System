@@ -30,7 +30,4 @@ Screenshots 📸 :-
 
 ![animted nav bar](https://user-images.githubusercontent.com/45221397/112787160-9593d900-9075-11eb-9d2a-ab9e62456de0.JPG)
 
-8. **Footer**
 
-
-![Footer](https://user-images.githubusercontent.com/45221397/112787178-9b89ba00-9075-11eb-920f-c05ca598f8cd.JPG)
